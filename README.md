@@ -12,41 +12,7 @@ The rationale for this particular model is based on several works, primarily [Gr
 
 # Paper
 
-Our paper is located here: [Using Deep Learning to Categorize Music through Spectrogram Analysis](./Music_Genre_Recognition-3.pdf)
-
-
-## Data
-### Spectrogram Representation
-
-Mel-spectrograms were generated using the Librosa python library. Number of FFTs was set to 2048 and the number of mels was 128.
-
-### Dataset
-TODO
-
-
-## Model
-### Motivation
-TODO
-
-### Architecture
-TODO
-
-
-## Results
-### Summary Statistics
-TODO
-
-### Conclusion
-TODO
-
-
-## Demo
-TODO
-
-
-## Usage
-TODO
-
+The paper explaining our rationale, procedures, and results can be found here: [Using Deep Learning to Categorize Music through Spectrogram Analysis](./Music_Genre_Recognition-3.pdf)
 
 ## Slides
 The slide deck can be found on Google Slides: [Using Deep Learning to Categorize Music as Time Progresses Through Spectrogram Analysis](https://docs.google.com/presentation/d/1MANAML13S-PBGx8bsbI8gdaKGPJ2bPd_UNbA3E2txdg/edit?usp=sharing).
