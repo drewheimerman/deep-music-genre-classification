@@ -9,9 +9,11 @@ This project uses Keras, using TensorFlow for the backend, for the neural networ
 ## Background
 The rationale for this particular model is based on several works, primarily [Grzegorz Gwardys and Daniel Grzywczak, Deep Image Features in Music Information Retrieval](http://ijet.pl/index.php/ijet/article/view/10.2478-eletel-2014-0042/53), [Recommending music on Spotify with Deep Learning](http://benanne.github.io/2014/08/05/spotify-cnns.html), and [Convolutional-Recurrent Neural Network for Live Music Genre Recognition](http://deepsound.io/music_genre_recognition.html).  
 
+
 # Paper
 
-Our paper can be located here: (./Music_Genre_Recognition-3.pdf)
+Our paper can be located here: [Using Deep Learning to Categorize Music through Spectrogram Analysis](./Music_Genre_Recognition-3.pdf)
+
 
 ## Data
 ### Spectrogram Representation
