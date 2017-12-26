@@ -1,5 +1,5 @@
 # Deep Music Genre Classification
-Using deep learning to categorize music as time progresses through dpectrogram snalysis.
+Using deep learning to categorize music as time progresses through spectrogram analysis.
 
 ## About
 Our aim is to create a neural network (CNN + LSTM RNN) that recognizes music genre and provides a user-friendly visualization for the network's current belief of the genre of a song.
