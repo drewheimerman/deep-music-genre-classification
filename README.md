@@ -14,7 +14,8 @@ The rationale for this particular model is based on several works, primarily [Gr
 
 ## Data
 ### Spectrogram Representation
-TODO
+
+Mel-spectrograms were generated using the Librosa python library. Number of FFTs was set to 2048 and the number of mels was 128.
 
 ### Dataset
 TODO
