@@ -12,7 +12,7 @@ The rationale for this particular model is based on several works, primarily [Gr
 
 # Paper
 
-Our paper can be located here: [Using Deep Learning to Categorize Music through Spectrogram Analysis](./Music_Genre_Recognition-3.pdf)
+Our paper is located here: [Using Deep Learning to Categorize Music through Spectrogram Analysis](./Music_Genre_Recognition-3.pdf)
 
 
 ## Data
